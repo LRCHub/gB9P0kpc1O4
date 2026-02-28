@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "In the End",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-28T07:23:08.217438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Break Up in the End",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/01_Break_Up_in_the_End_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_In_the_End_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Loser In The End",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_The_Loser_In_The_End_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "Mira",
+      "has_synced": false,
+      "path": "select/04_In_the_End_Mira.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lose It (In The End)",
+      "artist": "Mark Ronson & The Business Intl",
+      "has_synced": true,
+      "path": "select/05_Lose_It_(In_The_End)_Mark_Ronson_&_The_Business_Intl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lose It (In The End) (Featuring Mark Ronson, Ghostface Killah, Alex Greenwald)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/06_Lose_It_(In_The_End)_(Featuring_Mark_Ronson,_Ghostface_Killah,_Alex_Greenwald)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/07_In_the_End_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/08_In_The_End_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/09_In_The_End_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/10_In_The_End_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "True Love Will Find You In The End",
+      "artist": "A Whisper in the Noise",
+      "has_synced": false,
+      "path": "select/11_True_Love_Will_Find_You_In_The_End_A_Whisper_in_the_Noise.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/12_In_the_End_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/13_In_The_End_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In The End (Album Version)",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/14_In_The_End_(Album_Version)_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smilin' in the End",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/15_Smilin'_in_the_End_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "In the End",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/16_In_the_End_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Izzo / In the End",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/17_Izzo___In_the_End_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "Izzo",
+      "has_synced": true,
+      "path": "select/18_In_The_End_Izzo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "In The End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/19_In_The_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In the End",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_In_the_End_LINKIN_PARK.txt"
+    }
+  ]
+}
